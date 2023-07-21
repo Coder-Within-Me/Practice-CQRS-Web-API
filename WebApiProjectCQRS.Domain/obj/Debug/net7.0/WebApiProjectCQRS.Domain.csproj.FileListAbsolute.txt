@@ -1,0 +1,14 @@
+C:\Users\MayurGurav\source\repos\WebApiProjectCQRS\WebApiProjectCQRS.Domain\bin\Debug\net7.0\WebApiProjectCQRS.Domain.deps.json
+C:\Users\MayurGurav\source\repos\WebApiProjectCQRS\WebApiProjectCQRS.Domain\bin\Debug\net7.0\WebApiProjectCQRS.Domain.dll
+C:\Users\MayurGurav\source\repos\WebApiProjectCQRS\WebApiProjectCQRS.Domain\bin\Debug\net7.0\WebApiProjectCQRS.Domain.pdb
+C:\Users\MayurGurav\source\repos\WebApiProjectCQRS\WebApiProjectCQRS.Domain\obj\Debug\net7.0\WebApiProjectCQRS.Domain.csproj.AssemblyReference.cache
+C:\Users\MayurGurav\source\repos\WebApiProjectCQRS\WebApiProjectCQRS.Domain\obj\Debug\net7.0\WebApiProjectCQRS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MayurGurav\source\repos\WebApiProjectCQRS\WebApiProjectCQRS.Domain\obj\Debug\net7.0\WebApiProjectCQRS.Domain.AssemblyInfoInputs.cache
+C:\Users\MayurGurav\source\repos\WebApiProjectCQRS\WebApiProjectCQRS.Domain\obj\Debug\net7.0\WebApiProjectCQRS.Domain.AssemblyInfo.cs
+C:\Users\MayurGurav\source\repos\WebApiProjectCQRS\WebApiProjectCQRS.Domain\obj\Debug\net7.0\WebApiProjectCQRS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MayurGurav\source\repos\WebApiProjectCQRS\WebApiProjectCQRS.Domain\obj\Debug\net7.0\WebApiProjectCQRS.Domain.dll
+C:\Users\MayurGurav\source\repos\WebApiProjectCQRS\WebApiProjectCQRS.Domain\obj\Debug\net7.0\refint\WebApiProjectCQRS.Domain.dll
+C:\Users\MayurGurav\source\repos\WebApiProjectCQRS\WebApiProjectCQRS.Domain\obj\Debug\net7.0\WebApiProjectCQRS.Domain.pdb
+C:\Users\MayurGurav\source\repos\WebApiProjectCQRS\WebApiProjectCQRS.Domain\obj\Debug\net7.0\ref\WebApiProjectCQRS.Domain.dll
+C:\Users\MayurGurav\source\repos\WebApiProjectCQRS\WebApiProjectCQRS.Domain\bin\Debug\net7.0\WebApiProjectCQRS.Domain.runtimeconfig.json
+C:\Users\MayurGurav\source\repos\WebApiProjectCQRS\WebApiProjectCQRS.Domain\obj\Debug\net7.0\WebApiProjectCQRS.Domain.genruntimeconfig.cache
